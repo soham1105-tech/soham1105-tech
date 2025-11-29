@@ -86,6 +86,11 @@ Transforms any prompt into surreal, multi-branch stories with automated critique
   <img src="https://streak-stats.demolab.com?user=soham1105-tech&theme=tokyonight&hide_border=true" height="160">
 </p>
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/soham1105-tech/soham1105-tech/main/dist/snake.svg" alt="Snake animation" />
+</p>
 
 ---
 
