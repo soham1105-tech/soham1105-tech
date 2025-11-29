@@ -1,7 +1,6 @@
 <!-- BANNER -->
 <p align="center">
-  <img src="[https://i.imgur.com/NZp8F1P.jpeg](https://raw.githubusercontent.com/soham1105-tech/reality-remix-agent/main/banner-dark.png
-)" width="100%" alt="Sleek Dark Banner"/>
+  <img src="https://raw.githubusercontent.com/soham1105-tech/soham1105-tech/main/soham-banner.png" width="100%" alt="Sleek Dark Banner"/>
 </p>
 
 <!-- ANIMATED TYPING TEXT -->
@@ -82,12 +81,14 @@ Transforms any prompt into surreal, multi-branch stories with automated critique
 
 <p align="center">
   <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=soham1105-tech&show_icons=true&theme=tokyonight"
+    src="https://github-readme-stats.vercel.app/api?username=soham1105-tech&show_icons=true&theme=tokyonight"
     height="160"
   />
-  
+</p>
+
+<p align="center">
   <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=soham1105-tech&layout=compact&theme=tokyonight"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=soham1105-tech&layout=compact&theme=tokyonight"
     height="160"
   />
 </p>
