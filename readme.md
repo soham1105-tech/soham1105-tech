@@ -81,14 +81,14 @@ Transforms any prompt into surreal, multi-branch stories with automated critique
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=soham1105-tech&show_icons=true&theme=tokyonight"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=soham1105-tech&show_icons=true&theme=tokyonight"
     height="160"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=soham1105-tech&layout=compact&theme=tokyonight"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=soham1105-tech&layout=compact&theme=tokyonight"
     height="160"
   />
 </p>
