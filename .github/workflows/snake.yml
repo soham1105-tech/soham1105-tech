@@ -2,15 +2,20 @@ name: Generate Contribution Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # once a day
-  workflow_dispatch:      # manual run button
+    - cron: "0 0 * * *"   # once a day
+  workflow_dispatch:        # manual run button
   push:
     branches:
       - main
 
+# 👇 give the workflow permission to push commits
+permissions:
+  contents: write
+
 jobs:
   generate:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -22,8 +27,9 @@ jobs:
           outputs: |
             dist/snake.svg
 
-      - name: Push Snake
+      - name: Commit and push snake
         uses: EndBug/add-and-commit@v9
         with:
           add: "dist/snake.svg"
           message: "chore: update snake animation"
+          default_author: github_actions
