@@ -1,6 +1,6 @@
 <!-- BANNER -->
 <p align="center">
-  <img src="http://github.com/soham1105-tech/soham1105-tech/blob/main/banner.png" width="100%" alt="Soham Banner"/>
+  <img src="http://github.com/soham1105-tech/soham1105-tech/blob/main/banner.png" width="100%"/>
 </p>
 
 <!-- ANIMATED TYPING TEXT -->
