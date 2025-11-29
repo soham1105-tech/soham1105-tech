@@ -1,6 +1,7 @@
 <!-- BANNER -->
 <p align="center">
-  <img src="https://i.imgur.com/NZp8F1P.jpeg" width="100%" alt="Sleek Dark Banner"/>
+  <img src="[https://i.imgur.com/NZp8F1P.jpeg](https://raw.githubusercontent.com/soham1105-tech/reality-remix-agent/main/banner-dark.png
+)" width="100%" alt="Sleek Dark Banner"/>
 </p>
 
 <!-- ANIMATED TYPING TEXT -->
