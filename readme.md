@@ -81,13 +81,11 @@ Transforms any prompt into surreal, multi-branch stories with automated critique
 ## 📊 GitHub Stats
 
 <p align="center">
-  <!-- Main stats card -->
   <img
     src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=soham1105-tech&show_icons=true&theme=tokyonight"
     height="160"
   />
   
-  <!-- Top languages -->
   <img
     src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=soham1105-tech&layout=compact&theme=tokyonight"
     height="160"
@@ -95,13 +93,11 @@ Transforms any prompt into surreal, multi-branch stories with automated critique
 </p>
 
 <p align="center">
-  <!-- Streak stats -->
   <img
     src="https://streak-stats.demolab.com?user=soham1105-tech&theme=tokyonight&hide_border=true"
     height="160"
   />
 </p>
-
 
 ---
 
